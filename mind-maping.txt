@@ -1,0 +1,9 @@
+Website For Printy Store 
+
+
+[1] - header 
+[1] - products
+[1] - comments
+[1] - contact {creat a way the user can contact you other then putting social media links }
+[1] - footer {has social media and copyrights }
+[1] - 
